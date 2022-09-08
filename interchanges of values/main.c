@@ -6,6 +6,7 @@ int main()
 
 
     float s1 ;
+	
     printf("enter 1 value: ");
     scanf("%f",&s1);
 
@@ -21,7 +22,8 @@ int main()
    s2 = temp ;
    
        
-    printf("interchangation of values:%d",temp) ;
+    printf("s1=%f",s1) ;
+	printf("s2=%f",s2) ;
 
 
 
